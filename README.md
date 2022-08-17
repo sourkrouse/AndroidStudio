@@ -1,14 +1,14 @@
 # AndroidStudio
 Mobile application projects from CS360
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The purpose of the application will be to track your weight daily and let the app encourage you toward your goal weight. 
-Other features will include a milestone greeting during the progress, a login entry to secure your data, and an email reminder. 
-The goal of this application for each user is to see your progress day to day, as you go through a weight-loss journey. 
+The purpose of the application will be to track your weight daily and let the app encourage you toward your goal weight. 
+Other features will include a milestone greeting during the progress, a login entry to secure your data, and an email reminder. 
+The goal of this application for each user is to see your progress day to day, as you go through a weight-loss journey. 
 
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? 
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? 
 Why were your designs successful?
-There were 3 main screens needed for the intial phase of this app - a login screen, a registration screen, and a weight list screen. Some fragment screens were required
-to handle small tasks, such as adding a new weight or changing preferences. The user could move eaither forward or backward through each screen, and the flow was intiutive.
+There were 3 main screens needed for the initial phase of this app - a login screen, a registration screen, and a weight list screen. Some fragment screens were required
+to handle small tasks, such as adding a new weight or changing preferences. The user could move either forward or backward through each screen, and the flow was intuitive.
 The design is successful because it is simple, standard, and not cluttered.
 
 
